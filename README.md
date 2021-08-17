@@ -1,5 +1,1 @@
-# PUGA_game
-
-A documentação está presente em Docs.pdf
-
-Developed with Unreal Engine 4
+A 2D prototype made with Unreal Engine 4. The player controls a ball that must jump through a grid collecting coins, racing enemies trying to do the same. The first one to reach a certain ammount of points win. The ammount can be configured, as well as the size of the grid. The high score is saved between sessions
